@@ -1,0 +1,12 @@
+
+v
+java:S1104'"[Make LOGGING_ENABLED a static final constant or non-public and provide accessors if needed.(œ„ü¡øÿÿÿÿ
+u
+java:S3008'"ZRename this field "LOGGING_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ„ü¡øÿÿÿÿ
+K
+java:S1066Œ"/Merge this if statement with the enclosing one.(ñœæÿùÿÿÿÿ
+6	java:S131R""Add a default case to this switch.(•Ø†e
+<
+java:S1170("!Make this final field static too.(íë¾üùÿÿÿÿ
+P
+java:S1444'"5Make this "public static LOGGING_ENABLED" field final(œ„ü¡øÿÿÿÿ

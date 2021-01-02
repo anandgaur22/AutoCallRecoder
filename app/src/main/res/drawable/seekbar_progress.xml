@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/progressshape"
+        android:top="@dimen/_4sdp"
+        android:bottom="@dimen/_4sdp">
+        <clip>
+            <shape
+                android:shape="rectangle">
+                <size android:height="@dimen/_4sdp"/>
+                <corners
+                    android:bottomLeftRadius="@dimen/_2sdp"
+                    android:topLeftRadius="@dimen/_2sdp"/>
+                <gradient android:startColor="@color/cp_2"
+                    android:endColor="@color/cp_1"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/adapter_item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_56sdp"
+        android:clickable="true"
+        android:focusable="true"
+        android:paddingStart="@dimen/_16sdp"
+        android:paddingEnd="@dimen/_8sdp"
+        android:background="?selectableItemBackground"
+        android:baselineAligned="false">
+
+
+
+        <ImageView
+            android:id="@+id/iv_user"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:src="@drawable/ic_user"
+            android:contentDescription="@string/incoming"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/adapter_item_begin_date_time"
+            app:layout_constraintStart_toEndOf="@id/iv_user"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/adapter_item_number"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:fontFamily="@font/lato_bold"
+                android:maxLines="1"
+                android:text="Number"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14ssp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/tv_phonenumber"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_marginTop="@dimen/_4sdp"
+                android:alpha=".5"
+                android:fontFamily="@font/lato_regular"
+                android:text="+919756955268"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_10ssp"
+                app:layout_constraintStart_toEndOf="@id/tv_favourit"
+                app:layout_constraintTop_toBottomOf="@id/adapter_item_number" />
+
+
+            <ImageView
+                android:id="@+id/tv_favourit"
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_marginTop="@dimen/_4sdp"
+                android:contentDescription="@string/incoming"
+                android:src="@drawable/ic_favorit"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@id/iv_phonenumber"
+                app:layout_constraintTop_toBottomOf="@id/adapter_item_number" />
+
+            <ImageView
+                android:id="@+id/iv_phonenumber"
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_4sdp"
+                android:contentDescription="@string/incoming"
+                android:src="@drawable/ic_incoming"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/adapter_item_number" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <TextView
+            android:id="@+id/adapter_item_begin_date_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="04:00 PM\n(03:30)"
+            android:textColor="@color/black"
+            android:alpha=".5"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:textAlignment="center"
+            android:textSize="@dimen/_8ssp"
+            android:fontFamily="@font/lato_regular"
+            app:layout_constraintEnd_toStartOf="@id/adapter_item_menu"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+
+            <ImageButton
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:id="@+id/adapter_item_menu"
+                android:layout_width="@dimen/_24sdp"
+                android:layout_height="@dimen/_24sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_menu_dots_24"
+                android:tint="@color/black"
+                android:alpha=".5"
+                android:contentDescription="@string/more"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--<View
+        android:id="@+id/adapter_incoming_hr_item_view"
+        android:layout_width="@dimen/activity_horizontal_margin_double"
+        android:layout_height="1dip"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/activity_vertical_margin_halve"
+        android:layout_marginBottom="@dimen/activity_vertical_margin_halve"
+        android:background="#9EB4B9" />-->
+
+</LinearLayout>

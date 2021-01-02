@@ -1,0 +1,23 @@
+
+œ
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ‰ÚÍÿÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(±âœÒûÿÿÿÿ
+O
+java:S1854&"9Remove this useless assignment to local variable "width".(ÒèÒ“
+F
+java:S1874)"0Remove this use of "getColor"; it is deprecated.(Š´Ó‹
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÝþøüÿÿÿÿ
+>
+java:S1604="(Make this anonymous inner class a lambda(†£°î
+F
+java:S1874*"0Remove this use of "getColor"; it is deprecated.(˜£Ëî
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‰ÚÍÿÿÿÿÿ
+F
+java:S1481%"+Remove this unused "height" local variable.(ŠÑ™»ÿÿÿÿÿ
+U
+java:S1854%":Remove this useless assignment to local variable "height".(ŠÑ™»ÿÿÿÿÿ
+N
+java:S1874'"3Remove this use of "getDrawable"; it is deprecated.(áÇÝÕøÿÿÿÿ
+@
+java:S1481&"*Remove this unused "width" local variable.(ÒèÒ“

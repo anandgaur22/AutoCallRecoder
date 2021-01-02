@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomListPreference
+        app:entries="@array/records_output_location_entries"
+        app:entryValues="@array/records_output_location_entry_values"
+        app:defaultValue="app_external"
+        app:key="records_output_location"
+        app:title="@string/records_output_location_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomSwitchPreferenceCompat
+        app:key="vibrate"
+        app:defaultValue="true"
+        app:title="@string/vibrate"
+        app:summary="@string/vibrate_description"
+        app:singleLineTitle="true" />
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomSwitchPreferenceCompat
+        app:key="turn_on_speaker"
+        app:defaultValue="false"
+        app:title="@string/turn_on_speaker"
+        app:summary="@string/turn_on_speaker_description"
+        app:singleLineTitle="true" />
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomSwitchPreferenceCompat
+        app:key="max_up_volume"
+        app:defaultValue="true"
+        app:title="@string/max_up_volume"
+        app:summary="@string/max_up_volume_description"
+        app:singleLineTitle="true" />
+
+
+
+<com.appzdigital.autocallrecoder.custom_ui.CustomListPreference
+        app:entries="@array/preferred_audio_source_entries"
+        app:entryValues="@array/preferred_audio_source_entry_values"
+        app:defaultValue="4"
+        app:key="audio_source"
+        app:title="@string/preferred_audio_source"
+        app:useSimpleSummaryProvider="true" />
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomListPreference
+        app:entries="@array/preferred_output_format_entries"
+        app:entryValues="@array/preferred_output_format_entry_values"
+        app:defaultValue="2"
+        app:key="output_format"
+        app:title="@string/preferred_output_format"
+        app:useSimpleSummaryProvider="true" />
+
+    <com.appzdigital.autocallrecoder.custom_ui.CustomListPreference
+        app:entries="@array/preferred_audio_encoder_entries"
+        app:entryValues="@array/preferred_audio_encoder_entry_values"
+        app:defaultValue="3"
+        app:key="audio_encoder"
+        app:title="@string/preferred_audio_encoder"
+        app:useSimpleSummaryProvider="true" />
+
+
+
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,30 @@
+
+I
+java:S1874a"3Remove this use of "getDrawable"; it is deprecated.(÷Áß¢
+k
+java:S1450J"URemove the "mClose" field and declare it as a local variable in the relevant methods.( ê¯æ
+K
+java:S1066ÿ"/Merge this if statement with the enclosing one.(ºà¥ÿÿÿÿÿ
+@
+java:S1481`"*Remove this unused "width" local variable.(ÒèÒ“
+l
+java:S1450K"VRemove the "mSearch" field and declare it as a local variable in the relevant methods.(´Ê¾Ê
+g
+java:S1301·"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+=	java:S131""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+O
+java:S1854`"9Remove this useless assignment to local variable "width".(ÒèÒ“
+F
+java:S1874e"0Remove this use of "getColor"; it is deprecated.(˜£Ëî
+m
+java:S1450I"WRemove the "mSetting" field and declare it as a local variable in the relevant methods.(…óÉê
+F
+java:S1874d"0Remove this use of "getColor"; it is deprecated.(Š´Ó‹
+K
+java:S1066ª"/Merge this if statement with the enclosing one.(ûüÌ¥úÿÿÿÿ
+b
+java:S1301Ò"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ
+8	java:S131Ò""Add a default case to this switch.(ºÖ
+=	java:S131·""Add a default case to this switch.(×ö³–úÿÿÿÿ

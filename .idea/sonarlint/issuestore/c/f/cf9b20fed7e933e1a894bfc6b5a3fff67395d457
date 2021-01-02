@@ -1,0 +1,17 @@
+
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Û—ÂÓıÿÿÿÿ
+M
+java:S1444$"7Make this "public static sIsServiceRunning" field final(ÿÌéñ
+s
+java:S1104$"]Make sIsServiceRunning a static final constant or non-public and provide accessors if needed.(ÿÌéñ
+F
+java:S1874†"/Remove this use of "Builder"; it is deprecated.(øÔ…ä
+E
+java:S10662"/Merge this if statement with the enclosing one.(êû¼°
+J
+java:S1066+"/Merge this if statement with the enclosing one.(ğö»šÿÿÿÿÿ
+Q
+java:S2696\"6Make the enclosing method "static" or remove this set.(òÖ¹íüÿÿÿÿ
+?
+java:S1659e")Declare "contentText" on a separate line.(İ²€

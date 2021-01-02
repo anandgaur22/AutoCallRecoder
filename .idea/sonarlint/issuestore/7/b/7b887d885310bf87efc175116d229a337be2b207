@@ -1,0 +1,41 @@
+
+J
+java:S1659É"3Declare "beginDateTimeTextView" on a separate line.(Å‚þ
+B
+java:S1659:"'Declare "VIEW_ITEM" on a separate line.(…›ù¤øÿÿÿÿ
+O
+java:S1874ª",Remove this use of "Date"; it is deprecated.(¶ö¡¾øÿÿÿÿ8©ÖÃ×Ê.
+K
+java:S1066ó"/Merge this if statement with the enclosing one.(—¹¸€úÿÿÿÿ
+>
+java:S1659s"(Declare "isLastItem" on a separate line.(¾Íÿ‘
+D
+java:S1121¥".Extract the assignment out of this expression.(­€¦U
+H
+java:S1602ã",Remove useless curly braces around statement(¬¶íÔýÿÿÿÿ
+O
+java:S1874¶",Remove this use of "Date"; it is deprecated.(¾·‰çüÿÿÿÿ8©ÖÃ×Ê.
+E
+java:S1121ƒ".Extract the assignment out of this expression.(¥Ý†•
+U
+java:S1854s"?Remove this useless assignment to local variable "isFirstItem".(¾Íÿ‘
+O
+java:S1874·",Remove this use of "Date"; it is deprecated.(„üÁÛÿÿÿÿÿ8©ÖÃ×Ê.
+=	java:S131¸""Add a default case to this switch.(öÛ«°þÿÿÿÿ
+F
+java:S1481s"0Remove this unused "isFirstItem" local variable.(¾Íÿ‘
+T
+java:S1854s">Remove this useless assignment to local variable "isLastItem".(¾Íÿ‘
+K
+java:S1659<"5Declare "mCallObjectFilteredList" on a separate line.(¼ïÂ÷
+E
+java:S1481s"/Remove this unused "isLastItem" local variable.(¾Íÿ‘
+F	java:S108”")Either remove or fill this block of code.(™ÜÎ8ðµ¯×Ê.
+J
+java:S1874°",Remove this use of "Date"; it is deprecated.(ÜûÈ¹8©ÖÃ×Ê.
+z
+java:S1192Í"^Define a constant instead of duplicating this literal "Call recording is not deleted" 4 times.(ˆ¹Øÿûÿÿÿÿ
+F
+java:S1066‡"/Merge this if statement with the enclosing one.(Ò¤¼Ä
+E
+java:S1066ú"/Merge this if statement with the enclosing one.(š–J

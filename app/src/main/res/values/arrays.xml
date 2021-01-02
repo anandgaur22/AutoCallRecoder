@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="records_output_location_entries">
+        <item>App external (ext) files directory</item>
+        <item>App internal (int) files directory</item>
+    </string-array>
+
+    <string-array name="records_output_location_entry_values">
+        <item>app_external</item>
+        <item>app_internal</item>
+    </string-array>
+
+    <!-- //// -->
+
+    <string-array name="preferred_audio_source_entries">
+        <item>VOICE_CALL (Default)</item>
+        <item>VOICE_COMMUNICATION</item>
+        <item>VOICE_RECOGNITION</item>
+        <!--<item>VOICE_UPLINK</item>-->
+        <!--<item>VOICE_DOWNLINK</item>-->
+        <item>MIC</item>
+        <item>DEFAULT</item>
+    </string-array>
+
+    <string-array name="preferred_audio_source_entry_values">
+        <item>4</item>
+        <item>7</item>
+        <item>6</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <!-- //// -->
+
+    <string-array name="preferred_output_format_entries">
+        <item>MPEG_4 (Default)</item>
+        <item>THREE_GPP</item>
+        <item>AAC_ADTS</item>
+        <item>AMR_NB</item>
+        <item>AMR_WB</item>
+        <item>WEBM</item>
+        <item>OGG</item>
+        <item>DEFAULT</item>
+    </string-array>
+
+    <string-array name="preferred_output_format_entry_values">
+        <item>2</item>
+        <item>1</item>
+        <item>6</item>
+        <item>3</item>
+        <item>4</item>
+        <item>9</item>
+        <item>11</item>
+        <item>0</item>
+    </string-array>
+
+    <!-- //// -->
+
+    <string-array name="preferred_audio_encoder_entries">
+        <item>AAC (Default)</item>
+        <item>HE_AAC</item>
+        <item>AAC_ELD</item>
+        <item>AMR_NB</item>
+        <item>AMR_WB</item>
+        <item>VORBIS</item>
+        <item>OPUS</item>
+        <item>DEFAULT</item>
+    </string-array>
+
+    <string-array name="preferred_audio_encoder_entry_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>0</item>
+    </string-array>
+</resources>

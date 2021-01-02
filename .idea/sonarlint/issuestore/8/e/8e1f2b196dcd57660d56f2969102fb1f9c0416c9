@@ -1,0 +1,51 @@
+
+A
+java:S1659å"%Declare "release" on a separate line.(¦ó–ÿÿÿÿÿ
+7	java:S131M""Add a default case to this switch.(±ŸğÅ
+@
+java:S1659g"*Declare "mMaxUpVolume" on a separate line.( Â§
+F
+java:S1066ª"/Merge this if statement with the enclosing one.(ÌÂË
+K
+java:S1066Ï"/Merge this if statement with the enclosing one.(¸™øĞùÿÿÿÿ
+a
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(±ŸğÅ
+s
+java:S11045"]Make sIsServiceRunning a static final constant or non-public and provide accessors if needed.(ÿÌéñ
+E
+java:S1659Ú")Declare "contentText" on a separate line.(İœùÿÿÿÿ
+R
+java:S2696ó"6Make the enclosing method "static" or remove this set.(Û—ÂÓıÿÿÿÿ
+S
+java:S1874‰"=Remove this use of "EXTRA_INCOMING_NUMBER"; it is deprecated.(€šy
+o	java:S135ì"YReduce the total number of break and continue statements in this loop to use at most one.(àâ°Õ
+M
+java:S14445"7Make this "public static sIsServiceRunning" field final(ÿÌéñ
+F
+java:S1066»"/Merge this if statement with the enclosing one.(ĞÙÕ±
+B
+java:S1659g",Declare "mTurnOnSpeaker" on a separate line.( Â§
+?
+java:S1659å"#Declare "reset" on a separate line.(¦ó–ÿÿÿÿÿ
+R
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(òÖ¹íüÿÿÿÿ
+7	java:S1318""Add a default case to this switch.(±ŸğÅ
+F
+java:S1874û"/Remove this use of "Builder"; it is deprecated.(øÔ…ä
+>	java:S108†")Either remove or fill this block of code.(¤š‡x
+F
+java:S1066”"/Merge this if statement with the enclosing one.(ñ­‡º
+K
+java:S1066“"/Merge this if statement with the enclosing one.(¸™øĞùÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(ÌÂË
+F
+java:S1066·"/Merge this if statement with the enclosing one.(­‰À
+F
+java:S1066µ"/Merge this if statement with the enclosing one.(ÌÂË
+F
+java:S1066Â"/Merge this if statement with the enclosing one.(­‰À
+F
+java:S1066Ğ"/Merge this if statement with the enclosing one.(ñ­‡º
+Y
+java:S1874ˆ"=Remove this use of "EXTRA_INCOMING_NUMBER"; it is deprecated.(íì®ÿÿÿÿÿ

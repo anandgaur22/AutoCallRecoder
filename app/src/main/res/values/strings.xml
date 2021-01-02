@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Call Recoder</string>
+    <string name="admob_app_id">ca-app-pub-7009790987498270~1633408739</string>
+    <string name="admob_app_banner">ca-app-pub-7009790987498270/7936476099</string>
+    <string name="admob_app_interstitial">ca-app-pub-7009790987498270/2862729927</string>
+
+
+    <!-- Receiver -->
+    <string name="receiver">Receiver</string>
+    <string name="additional_receiver">Additional receiver</string>
+    <!-- - Receiver -->
+
+    <!-- Service -->
+    <string name="service">Service</string>
+    <string name="additional_service">Additional service</string>
+    <!-- - Service -->
+
+    <string name="settings">Settings</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="open_in_market">Open in market</string>
+
+    <string name="action_settings">@string/settings</string>
+    <string name="action_terms_of_use">@string/terms_of_use</string>
+    <string name="action_open_in_market">@string/open_in_market</string>
+
+    <string name="make_phone_call">Make phone call</string>
+    <string name="delete">Delete</string>
+
+    <string name="action_make_phone_call">@string/make_phone_call</string>
+    <string name="action_delete">@string/delete</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="incoming">Incoming</string>
+    <string name="outgoing">Outgoing</string>
+
+    <string name="incoming_call">Incoming call</string>
+    <string name="outgoing_call">Outgoing call</string>
+
+    <string name="no_incoming_calls">No incoming calls.</string>
+    <string name="no_outgoing_calls">No outgoing calls.</string>
+
+    <string name="record_incoming_calls">Record incoming calls</string>
+    <string name="record_incoming_calls_param">Record incoming calls: %1$s</string>
+    <string name="record_outgoing_calls">Record outgoing calls</string>
+    <string name="record_outgoing_calls_param">Record outgoing calls: %1$s</string>
+
+    <!-- Global -->
+    <string name="search">Search…</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="older">Older</string>
+
+    <string name="more">More</string>
+
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+
+    <string name="unsave">Unsave</string>
+    <string name="unsaved">Unsaved</string>
+
+    <string name="incoming_call_record">Incoming call record</string>
+    <string name="outgoing_call_record">Outgoing call record</string>
+
+    <string name="number">Number</string>
+
+
+    <string name="incoming_number">Incoming number</string>
+    <string name="outgoing_number">Outgoing number</string>
+
+    <string name="phone_number">Phone number</string>
+    <string name="phone_number_param">Phone number: %1$s</string>
+
+    <string name="unknown_number">Unknown</string>
+
+    <string name="duration">Duration</string>
+
+
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string name="call">Call</string>
+
+    <string name="time_date">Time - Date</string>
+    <string name="date_time">Date - Time</string>
+
+    <string name="begin">Begin</string>
+
+
+    <string name="end">End</string>
+
+
+    <string name="file_info">File info</string>
+
+    <string name="call_player">Call player</string>
+
+    <string name="sim_card_info">SIM card info</string>
+
+    <string name="serial_number">Serial number</string>
+    <string name="serial_number_param">Serial number: %1$s</string>
+
+    <string name="unknown_serial_number">Unknown serial number</string>
+
+    <string name="operator">Operator</string>
+    <string name="operator_name">Operator name</string>
+    <string name="country_iso">Country ISO</string>
+
+    <string name="network_info">Network info</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+    <string name="volume_up">Volume up</string>
+    <string name="volume_down">Volume down</string>
+
+    <string name="path">Path</string>
+    <string name="path_param">Path: %1$s</string>
+
+    <string name="unknown_path">Unknown path</string>
+
+    <string name="file_exists">Exists</string>
+    <string name="file_file">File</string>
+
+    <string name="audio_source">Audio source</string>
+    <string name="output_format">Output format</string>
+    <string name="audio_encoder">Audio encoder</string>
+    <!-- - Global -->
+
+    <!-- "Settings" activity -->
+    <string name="main_header">Main</string>
+
+    <string name="records_output_location_title">Records output location</string>
+
+    <!-- //// -->
+
+    <string name="recorder_header">Recorder</string>
+
+    <string name="preferred_audio_source">Preferred audio source</string>
+    <string name="preferred_output_format">Preferred output format</string>
+    <string name="preferred_audio_encoder">Preferred audio encoder</string>
+
+    <string name="vibrate">Vibrate</string>
+    <string name="vibrate_description">On start &amp; stop recording.</string>
+
+    <string name="turn_on_speaker">Turn on speaker</string>
+    <string name="turn_on_speaker_description"></string>
+
+    <string name="max_up_volume">Max up volume</string>
+    <string name="max_up_volume_description">This will improve audio quality.</string>
+
+    <!-- //// -->
+
+    <string name="other_header">Other</string>
+
+    <string name="change_consent_information_title">Change consent information</string>
+    <string name="change_consent_information_summary">Manage your consent about tailor ads (personalized / non-personalized).</string>
+    <!-- - "Settings" activity -->
+
+    <!-- Runtime permissions -->
+    <string name="runtime_permissions_not_granted_title">Runtime permissions not granted</string>
+    <string name="runtime_permissions_not_granted_message">Some of the requested runtime permissions are not granted. Consider granting them manually as soon as possible. Otherwise application performance may misbehave.</string>
+    <!-- - Runtime permissions -->
+
+    <!-- Advertisement box -->
+    <string name="advertisement">Advertisement</string>
+    <string name="not_available">Not available</string>
+    <string name="not_available_at_the_moment">Not available at the moment</string>
+    <!-- - Advertisement box -->
+
+    <!-- //// -->
+
+    <!-- Google AdMob -->
+    <string name="google_admob_application_id" translatable="false">ca-app-pub-5671501471729317~9690267580</string>
+    <string name="google_admob_text_typing_fragment_banner_ad" translatable="false">ca-app-pub-5671501471729317/3416503270</string>
+    <!-- - Google AdMob -->
+
+    <!-- Consent information (dialog) -->
+    <string name="admob_publisher_id" translatable="false">pub-0000000000000000</string>
+    <string name="privacy_policy_url" translatable="false">https://sites.google.com/view/spx-call-recorder/</string>
+    <!-- - Consent information (dialog) -->
+</resources>

@@ -1,0 +1,83 @@
+
+J
+java:S1874›",Remove this use of "Date"; it is deprecated.(œİêù8İ ¼×Ê.
+I
+java:S1144˜"2Remove this unused private "makePhoneCall" method.(ıÁŠñ
+O
+java:S1874š",Remove this use of "Date"; it is deprecated.(Á‡Ğ¦úÿÿÿÿ8İ ¼×Ê.
+F
+java:S1066Ø"/Merge this if statement with the enclosing one.(Ò¤¼Ä
+b
+java:S1192"FDefine a constant instead of duplicating this literal "mType" 4 times.(Ì©ÀÌûÿÿÿÿ
+@
+java:S1659ñ")Declare "endTimeDate" on a separate line.(÷ã‰
+J
+java:S1874£",Remove this use of "Date"; it is deprecated.(¹âÂê8İ ¼×Ê.
+˜
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+O
+java:S1874’",Remove this use of "Date"; it is deprecated.(«ËàÖÿÿÿÿÿ8İ ¼×Ê.
+
+java:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+H
+java:S1602­",Remove useless curly braces around statement(ÊÆ”†ÿÿÿÿÿ
+F
+java:S1066ü"/Merge this if statement with the enclosing one.(Ò¤¼Ä
+F
+java:S1874X"0Remove this use of "getColor"; it is deprecated.(˜£Ëî
+F
+java:S1874W"0Remove this use of "getColor"; it is deprecated.(Š´Ó‹
+I
+java:S1874T"3Remove this use of "getDrawable"; it is deprecated.(÷Áß¢
+K
+java:S1066Ù"/Merge this if statement with the enclosing one.(°Îàªùÿÿÿÿ
+j
+java:S1192ª"SDefine a constant instead of duplicating this literal "dd-MM-yyyy hh:mm a" 4 times.(Ì¿ïÉ
+J
+java:S1874ª",Remove this use of "Date"; it is deprecated.(Ì¿ïÉ8İ ¼×Ê.
+g
+java:S1192¤"PDefine a constant instead of duplicating this literal "mBeginTimestamp" 8 times.(˜¢ş
+J
+java:S1874³",Remove this use of "Date"; it is deprecated.(ƒ´¢8İ ¼×Ê.
+f
+java:S1192Â"ODefine a constant instead of duplicating this literal "%d min, %d sec" 4 times.(ÕçÕË
+Z
+java:S1854Å">Remove this useless assignment to local variable "mainMargin".(Ò š´şÿÿÿÿ
+A
+java:S1659›"*Declare "endTimestamp" on a separate line.(à¶çÿ
+z
+java:S1192è"^Define a constant instead of duplicating this literal "Call recording is not deleted" 4 times.(¾ä—ıÿÿÿÿ
+O
+java:S1854S"9Remove this useless assignment to local variable "width".(ÒèÒ“
+O
+java:S1874«",Remove this use of "Date"; it is deprecated.(ß…Íëûÿÿÿÿ8İ ¼×Ê.
+˜
+java:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ÁÕ–
+O
+java:S1874´",Remove this use of "Date"; it is deprecated.(‚«ô¼ıÿÿÿÿ8İ ¼×Ê.
+j
+java:S1192§"NDefine a constant instead of duplicating this literal "mEndTimestamp" 6 times.(Ş…ÅĞùÿÿÿÿ
+e
+java:S1192"IDefine a constant instead of duplicating this literal "incoming" 3 times.(Ì©ÀÌûÿÿÿÿ
+J
+java:S1874¤",Remove this use of "Date"; it is deprecated.(ñî°º8İ ¼×Ê.
+t
+java:S1450D"YRemove the "adsRecoder" field and declare it as a local variable in the relevant methods.(ç‰®Ëùÿÿÿÿ
+@
+java:S1481S"*Remove this unused "width" local variable.(ÒèÒ“
+@
+java:S1659Ó"$Declare "isFile" on a separate line.(—ˆ„‡üÿÿÿÿ
+O
+java:S1874¼",Remove this use of "Date"; it is deprecated.(è¬ÿÿÿÿÿ8İ ¼×Ê.
+h
+java:S1192³"QDefine a constant instead of duplicating this literal "dd-MM-yyyy HH:mm" 4 times.(ƒ´¢
+O
+java:S1874½",Remove this use of "Date"; it is deprecated.(ª’Äæûÿÿÿÿ8İ ¼×Ê.
+O
+java:S1874‘",Remove this use of "Date"; it is deprecated.(«™åæúÿÿÿÿ8İ ¼×Ê.
+K
+java:S1481Å"/Remove this unused "mainMargin" local variable.(Ò š´şÿÿÿÿ
+
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+e
+java:S1192 "IDefine a constant instead of duplicating this literal "outgoing" 3 times.(¬ã«ßøÿÿÿÿ

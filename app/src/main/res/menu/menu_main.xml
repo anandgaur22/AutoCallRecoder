@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.n37bl4d3trbr.excallrecorder.activity.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="0"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_in_market"
+        android:orderInCategory="1"
+        android:title="@string/open_in_market"
+        app:showAsAction="never" />
+</menu>

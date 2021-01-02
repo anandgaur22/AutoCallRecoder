@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788923690195",
+    "project_id": "autocall-34aad",
+    "storage_bucket": "autocall-34aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788923690195:android:da830f709ba5c24725b826",
+        "android_client_info": {
+          "package_name": "com.appzdigital.autocallrecoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788923690195-g2s5aunmgbk6r4f2i60uljhce6ihld0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appzdigital.autocallrecoder",
+            "certificate_hash": "356b242c6a823427979fde9d0da42627d948a79b"
+          }
+        },
+        {
+          "client_id": "788923690195-1a9sqta5haq9pfe95us4m708gd3rnq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWb_fvMMXsgKCb0nWMjWAhUHUGTrmoNnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788923690195-1a9sqta5haq9pfe95us4m708gd3rnq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+
+J
+java:S3740&"/Provide the parametrized type for this generic.(¤ëå”ÿÿÿÿÿ
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‘Àÿ
+J
+java:S1066O"/Merge this if statement with the enclosing one.(†œŠşÿÿÿÿ
+h	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÌéÆøÿÿÿÿ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ø’îıÿÿÿÿ
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û›¾¤ûÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(ŠÈ‘Üûÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜«¸¼şÿÿÿÿ
+c	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•İÊß
+E
+java:S10662"/Merge this if statement with the enclosing one.(¬×ÿ¾
+c	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÙ»ë
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÅÎ¼ùÿÿÿÿ
+E
+java:S1066A"/Merge this if statement with the enclosing one.(¬×ÿ¾
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ö»Úúÿÿÿÿ
+J
+java:S1066^"/Merge this if statement with the enclosing one.(†œŠşÿÿÿÿ
+c	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æï¤Ñ
